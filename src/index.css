@@ -1,0 +1,25 @@
+body {
+  background-color: var(--main);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-family: "Poppins", sans-serif;
+  margin: 0;
+  min-height: 100vh;
+
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+:root {
+  --main : #f29191;
+  --sub : #eec4c4;
+  --point : #94d0cc;
+  --font : #d1d9d9;
+  --hyper : blueviolet;
+}
+
