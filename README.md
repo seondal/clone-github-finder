@@ -1,6 +1,6 @@
 # clone-github-finder
 
-⬇️ Deployed   
+⬇️ Link   
 https://seondal.github.io/clone-github-finder   
 
 ⬇️ ReadMe   
